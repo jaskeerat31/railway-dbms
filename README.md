@@ -1,0 +1,2 @@
+# railway-dbms
+I have created a small database for indian railways which contains information about some trains on a few specific routes.The users can book a ticket for a specific train mentioning the journey date and time as well as the the boarding and destination stations. His reservation status and fare is also displayed. This project is written in PL/SQL along with procedures and triggers. The snapshots are attached for reference.
